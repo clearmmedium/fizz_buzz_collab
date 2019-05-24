@@ -1,2 +1,0 @@
-this text file will be a standin for the master branch for the current
-time.
