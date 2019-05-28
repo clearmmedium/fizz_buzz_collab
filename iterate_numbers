@@ -1,6 +1,0 @@
-#!/bin/bash
-
-directory_number=0
-echo "How many directories should be created?"
-read user_input
-while [ $directory_number -ne $user_input ]
