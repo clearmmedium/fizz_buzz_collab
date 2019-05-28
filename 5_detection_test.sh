@@ -1,10 +1,30 @@
-#!/bin/sh
+#!/bin/bash
+for i in {1..100}
+ do
+    echo $i >> touchtest.txt
+ done
 
 
-for ((n=1;n<=100;n++)); 
-do
-   calc $n/5
-done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#for 
+#((n=1;n<=100;n++))
+#do
+   #expr $n / 5
+#done
 
 
 #https://www.cyberciti.biz/faq/unix-for-loop-1-to-10/
